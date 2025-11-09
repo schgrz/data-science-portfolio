@@ -40,7 +40,7 @@ Below are my main projects — click the links to explore each repository in det
 ---
 
 ## Contact Me
-- LinkedIn: [Alex Schwarz](https://www.linkedin.com/in/schwarzalex)  
+- LinkedIn: [linkedin.com/schwarzalex](https://www.linkedin.com/in/schwarzalex)  
 - Email: alex.schwarzgrzesiak@gmail.com  
 
 > Feel free to reach out for collaborations, questions, or just to geek out over data!
