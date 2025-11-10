@@ -4,7 +4,7 @@
 ---
 
 ## About Me
-Hi! 👋 I’m **Alex**, a soon-to-be graduate with a **Master of Science** in **Data Science** from the University of Connecticut and a data enthusiast who loves solving puzzles! I enjoy uncovering patterns, building models, and visualizing insights to reveal the story behind the numbers. Whether I'm designing machine learning models, creating reproducible workflows, or streamlining processes through data-driven solutions, every project is an opportunity to solve a problem, improve efficiency, and turn complexity into clarity.
+Hi! 👋 I’m **Alex**, a soon-to-be graduate with a **Master of Science** in **Data Science** from the University of Connecticut and a data enthusiast. As someone who enjoys solving puzzles, I took to Data Science to scratch that itch by learning coding and applying those skills through statistical methods. Excel wasn't enough for me, so I had to take it a step further! I enjoy uncovering the patterns, building models, and visualizing insights to reveal the story behind the numbers. Whether I'm designing machine learning models, creating reproducible workflows, or streamlining processes through data-driven solutions, every project is an opportunity to solve a puzzle, improve efficiency, and turn complexity into clarity.
 
 I work across **Python, R, SQL, Tableau, and other visualization tools**, building projects in analytics, reporting, and machine learning.
 
