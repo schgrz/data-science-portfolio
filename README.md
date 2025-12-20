@@ -17,6 +17,7 @@ Below are my main projects — click the links to explore each repository in det
 | Project | Description | Key Skills / Tools |
 |---------|-------------|--------------------|
 | [LinkedIn Sales Navigator Reporting](https://github.com/schgrz/linkedin-sales-navigator) | Automated month-over-month sales performance reporting for corporate and team-level insights. | Python, Pandas, Excel Automation, Data Visualization |
+| [Predicting Student Dropout](https://github.com/schgrz/predicting-student-dropout) | Predictive analysis to identify at-risk students as dropouts for academic institutions and to offer actionable recommendations. | Python, Pandas, Seaborn, scikit-learn, Predictive Modeling and Analysis, Data Visualization, Statistical Methods |
 | [Area Code Analysis](https://github.com/schgrz/area-code-analysis) | Comprehensive statistical and spatial analysis of North American area code assignments to test the “dial pull theory” and model modern proliferation trends. | R, RStudio, Quarto, Tidyverse, Tidymodels, Spacial Analysis, Data Visualization, Statistical Modeling |
 
 > ⚡ **Tip:** Each project repository includes a clean README, detailed analysis, and reproducible code.
@@ -36,7 +37,7 @@ Below are my main projects — click the links to explore each repository in det
 1. Browse the project table above.
 2. Click a repository link to explore code, datasets, and analysis.
 3. Check the README of each project for setup instructions and dependencies.
-4. Open `.ipynb` notebooks, `.py` files, or `.qmd` Quarto files to reproduce results.
+4. Open `.ipynb` notebooks, `.py` files, or `.qmd` Quarto files to reproduce results. *Some projects include pre-run .html versions for easy review*
 
 ---
 
